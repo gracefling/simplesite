@@ -327,7 +327,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../img/hero-bg.jpg) top center;
+  background: url(https://github.com/gracefling/simplesite/blob/main/assets/img/Terracotta%20Abstract%20Landscape%20Art%20Print%20No_8%20-%20A1%20(594%20x%20841mm).jpg?raw=true) top center;
   background-size: cover;
   position: relative;
 }
